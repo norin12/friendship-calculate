@@ -209,7 +209,7 @@ a:focus .fa {
       }
     .content {
         width: 90%;
-        height: 64%;
+        min-height: 76%;
     }
   }
   @media screen and (max-width:768px) {
